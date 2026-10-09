@@ -1,0 +1,14 @@
+.venv/
+__pycache__/
+.pytest_cache/
+.streamlit/
+.env
+*.pyc
+*.pyo
+*.pyd
+*.log
+
+# Local uploads and generated artifacts
+tmp/
+artifacts/
+
